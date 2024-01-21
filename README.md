@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, there 👋
 
-<!--
-**rash23/rash23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vitalii Horodetskyi a Front-end developer
 
-Here are some ideas to get you started:
+#### Top Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rash23&layout=compact&&langs_count=4"/>
+
+### Info
+- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1GvijjZTVtbuJ7WK8PA6fPKVVUKbX65lo/view?usp=sharing)
+- :email: it.horodetskiy@gmail.com
+
+### My stats ⭐
+
+<img alt="Vitalii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rash23&show_icons=true&theme=transparent"/>
