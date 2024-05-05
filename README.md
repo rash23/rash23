@@ -9,7 +9,6 @@ I'm Vitalii Horodetskyi a Front-end developer
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rash23&layout=compact&&langs_count=4"/>
 
 ### Info
-- :paperclip: [My Resume/CV](https://drive.google.com/file/d/1GvijjZTVtbuJ7WK8PA6fPKVVUKbX65lo/view?usp=sharing)
 - :email: it.horodetskiy@gmail.com
 
 ### My stats ⭐
