@@ -13,7 +13,3 @@ I'm Vitalii Horodetskyi a Front-end developer
 
 ### Info
 - :email: it.horodetskiy@gmail.com
-
-### My stats ⭐
-
-<img alt="Vitalii's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=rash23&show_icons=true&theme=transparent"/>
